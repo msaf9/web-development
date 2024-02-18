@@ -32,8 +32,8 @@ Hotel Booking Form is a Web page used for collecting information from tourists t
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/WebDevelopment.git
-cd WebDevelopment
+git clone https://github.com/msaf9/web-development.git
+cd web-development
 ```
 
 ## License
