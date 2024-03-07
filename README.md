@@ -1,9 +1,11 @@
 <h1> WebDevelopment </h1>
 HTML Udemy Course Hands-on Project
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
   - [Course](#course)
-- [Technologies](#technologies)
+- [Markup Language](#markup-language)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -19,7 +21,7 @@ Hotel Booking Form is a Web page used for collecting information from tourists t
 >
 > MOOC Provider: Udemy
 
-## Technologies
+## Markup Language
 
 - HTML5
 
